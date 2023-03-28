@@ -1,0 +1,15 @@
+/**styles in css file**/
+h1 {
+    color:blue;
+    font-size: 45px;
+}
+.Recipes {
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+#box {
+    background-color: black;
+    width: 400px;
+    text-align: center;
+}
