@@ -14,7 +14,8 @@ a.Recipes  {
 #box {
     background-color: orangered;
     text-align: center;
-    margin-bottom: 50px;
+    padding: 20px;
+    margin-bottom: 30px;
 }
 #text-box {
     text-align: center;
